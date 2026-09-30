@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256">
+  <!-- lamp: circle r22, optical centre above the slab -->
+  <circle cx="128" cy="62" r="22" fill="#000"/>
+  <!-- slab: 176 x 28, radius 8 -->
+  <rect x="40" y="104" width="176" height="28" rx="8" fill="#000"/>
+  <!-- underside: inverted triangle, 16 gap below the slab -->
+  <path d="M48 148 H208 L128 228 Z" fill="#000"/>
+</svg>

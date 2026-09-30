@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1600" height="840" viewBox="0 0 1600 840"><defs><filter id="grey"><feColorMatrix type="saturate" values="0"/></filter></defs><rect width="1600" height="840" fill="#f7f7f4"/><text x="60" y="78" font-family="system-ui,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="40" font-weight="700" fill="#161616">Logo concepts</text><text x="60" y="116" font-family="system-ui,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="20" fill="#6b6b6b">Concepts for review — pick a direction (or tell me what you like in each).</text><rect x="60" y="150" width="474.667" height="630" rx="18" fill="#fff" stroke="#e4e4e0" stroke-width="1"/><g filter="url(#grey)"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" x="90" y="190" width="414.667" height="300" preserveAspectRatio="xMidYMid meet">
+  <!-- lamp set off-centre (like the desk lamp in the site), breaking the divide-sign reading -->
+  <circle cx="170" cy="70" r="24" fill="#000"/>
+  <!-- island: flat top slab joined to a faceted, asymmetric underside -->
+  <path d="M28 118 H228 L220 142 L174 176 L140 232 L112 184 L60 160 Z" fill="#000"/>
+</svg>
+</g><g filter="url(#grey)"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" x="90" y="516" width="64" height="64" preserveAspectRatio="xMidYMid meet">
+  <!-- lamp set off-centre (like the desk lamp in the site), breaking the divide-sign reading -->
+  <circle cx="170" cy="70" r="24" fill="#000"/>
+  <!-- island: flat top slab joined to a faceted, asymmetric underside -->
+  <path d="M28 118 H228 L220 142 L174 176 L140 232 L112 184 L60 160 Z" fill="#000"/>
+</svg>
+</g><text x="122" y="600" font-family="system-ui,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#8a8a8a" text-anchor="middle">64px</text><g filter="url(#grey)"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" x="180" y="548" width="32" height="32" preserveAspectRatio="xMidYMid meet">
+  <!-- lamp set off-centre (like the desk lamp in the site), breaking the divide-sign reading -->
+  <circle cx="170" cy="70" r="24" fill="#000"/>
+  <!-- island: flat top slab joined to a faceted, asymmetric underside -->
+  <path d="M28 118 H228 L220 142 L174 176 L140 232 L112 184 L60 160 Z" fill="#000"/>
+</svg>
+</g><text x="196" y="600" font-family="system-ui,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#8a8a8a" text-anchor="middle">32px</text><g filter="url(#grey)"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" x="238" y="564" width="16" height="16" preserveAspectRatio="xMidYMid meet">
+  <!-- lamp set off-centre (like the desk lamp in the site), breaking the divide-sign reading -->
+  <circle cx="170" cy="70" r="24" fill="#000"/>
+  <!-- island: flat top slab joined to a faceted, asymmetric underside -->
+  <path d="M28 118 H228 L220 142 L174 176 L140 232 L112 184 L60 160 Z" fill="#000"/>
+</svg>
+</g><text x="246" y="600" font-family="system-ui,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#8a8a8a" text-anchor="middle">16px</text><text x="90.0" y="636" font-family="system-ui,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="26" font-weight="700" fill="#161616">A · Lamp</text><text x="90.0" y="670" font-family="system-ui,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="19" fill="#555">The site&#x27;s floating island, lamp lit beside</text><text x="90.0" y="696" font-family="system-ui,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="19" fill="#555">it.</text><rect x="562.667" y="150" width="474.667" height="630" rx="18" fill="#fff" stroke="#161616" stroke-width="2"/><g filter="url(#grey)"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" x="592.667" y="190" width="414.667" height="300" preserveAspectRatio="xMidYMid meet">
+  <!-- beams flare from the light: 8 wide at the source, 64 wide at the top -->
+  <path d="M124 196 L20 40 H84 L132 190 Z" fill="#000"/>
+  <path d="M132 196 L236 40 H172 L124 190 Z" fill="#000"/>
+  <circle cx="128" cy="204" r="28" fill="#000"/>
+</svg>
+</g><g filter="url(#grey)"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" x="592.667" y="516" width="64" height="64" preserveAspectRatio="xMidYMid meet">
+  <!-- beams flare from the light: 8 wide at the source, 64 wide at the top -->
+  <path d="M124 196 L20 40 H84 L132 190 Z" fill="#000"/>
+  <path d="M132 196 L236 40 H172 L124 190 Z" fill="#000"/>
+  <circle cx="128" cy="204" r="28" fill="#000"/>
+</svg>
+</g><text x="624.667" y="600" font-family="system-ui,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#8a8a8a" text-anchor="middle">64px</text><g filter="url(#grey)"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" x="682.667" y="548" width="32" height="32" preserveAspectRatio="xMidYMid meet">
+  <!-- beams flare from the light: 8 wide at the source, 64 wide at the top -->
+  <path d="M124 196 L20 40 H84 L132 190 Z" fill="#000"/>
+  <path d="M132 196 L236 40 H172 L124 190 Z" fill="#000"/>
+  <circle cx="128" cy="204" r="28" fill="#000"/>
+</svg>
+</g><text x="698.667" y="600" font-family="system-ui,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#8a8a8a" text-anchor="middle">32px</text><g filter="url(#grey)"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" x="740.667" y="564" width="16" height="16" preserveAspectRatio="xMidYMid meet">
+  <!-- beams flare from the light: 8 wide at the source, 64 wide at the top -->
+  <path d="M124 196 L20 40 H84 L132 190 Z" fill="#000"/>
+  <path d="M132 196 L236 40 H172 L124 190 Z" fill="#000"/>
+  <circle cx="128" cy="204" r="28" fill="#000"/>
+</svg>
+</g><text x="748.667" y="600" font-family="system-ui,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#8a8a8a" text-anchor="middle">16px</text><text x="592.6666666666667" y="636" font-family="system-ui,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="26" font-weight="700" fill="#161616">B · Beacon V</text><text x="592.6666666666667" y="664" font-family="system-ui,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="15" font-weight="700" fill="#161616" letter-spacing="1.5">RECOMMENDED</text><text x="592.6666666666667" y="698" font-family="system-ui,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="19" fill="#555">A V drawn as two beams of light from one</text><text x="592.6666666666667" y="724" font-family="system-ui,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="19" fill="#555">lit point.</text><rect x="1065.33" y="150" width="474.667" height="630" rx="18" fill="#fff" stroke="#e4e4e0" stroke-width="1"/><g filter="url(#grey)"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" x="1095.33" y="190" width="414.667" height="300" preserveAspectRatio="xMidYMid meet">
+  <!-- R bowl radius 44, stem 32; the R leg becomes the V's left arm, right arm mirrors its slope -->
+  <path fill="#000" fill-rule="evenodd" d="M28 48 H96 A44 44 0 0 1 96 136 H60 V208 H28 Z M60 80 H96 A12 12 0 0 1 96 104 H60 Z"/>
+  <path fill="#000" d="M76 136 H112 L156 168 L204 48 H238 L172 208 H140 Z"/>
+</svg>
+</g><g filter="url(#grey)"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" x="1095.33" y="516" width="64" height="64" preserveAspectRatio="xMidYMid meet">
+  <!-- R bowl radius 44, stem 32; the R leg becomes the V's left arm, right arm mirrors its slope -->
+  <path fill="#000" fill-rule="evenodd" d="M28 48 H96 A44 44 0 0 1 96 136 H60 V208 H28 Z M60 80 H96 A12 12 0 0 1 96 104 H60 Z"/>
+  <path fill="#000" d="M76 136 H112 L156 168 L204 48 H238 L172 208 H140 Z"/>
+</svg>
+</g><text x="1127.33" y="600" font-family="system-ui,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#8a8a8a" text-anchor="middle">64px</text><g filter="url(#grey)"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" x="1185.33" y="548" width="32" height="32" preserveAspectRatio="xMidYMid meet">
+  <!-- R bowl radius 44, stem 32; the R leg becomes the V's left arm, right arm mirrors its slope -->
+  <path fill="#000" fill-rule="evenodd" d="M28 48 H96 A44 44 0 0 1 96 136 H60 V208 H28 Z M60 80 H96 A12 12 0 0 1 96 104 H60 Z"/>
+  <path fill="#000" d="M76 136 H112 L156 168 L204 48 H238 L172 208 H140 Z"/>
+</svg>
+</g><text x="1201.33" y="600" font-family="system-ui,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#8a8a8a" text-anchor="middle">32px</text><g filter="url(#grey)"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" x="1243.33" y="564" width="16" height="16" preserveAspectRatio="xMidYMid meet">
+  <!-- R bowl radius 44, stem 32; the R leg becomes the V's left arm, right arm mirrors its slope -->
+  <path fill="#000" fill-rule="evenodd" d="M28 48 H96 A44 44 0 0 1 96 136 H60 V208 H28 Z M60 80 H96 A12 12 0 0 1 96 104 H60 Z"/>
+  <path fill="#000" d="M76 136 H112 L156 168 L204 48 H238 L172 208 H140 Z"/>
+</svg>
+</g><text x="1251.33" y="600" font-family="system-ui,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#8a8a8a" text-anchor="middle">16px</text><text x="1095.3333333333335" y="636" font-family="system-ui,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="26" font-weight="700" fill="#161616">C · RV ligature</text><text x="1095.3333333333335" y="670" font-family="system-ui,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="19" fill="#555">R&#x27;s leg runs on into the V: one stroke, two</text><text x="1095.3333333333335" y="696" font-family="system-ui,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="19" fill="#555">letters.</text></svg>

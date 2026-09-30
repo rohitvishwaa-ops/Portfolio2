@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256">
+  <!-- two beams widening from the light point: V -->
+  <path d="M116 176 L36 36 H84 L140 150 Z" fill="#000"/>
+  <path d="M140 176 L220 36 H172 L116 150 Z" fill="#000"/>
+  <!-- the lit point at the vertex -->
+  <circle cx="128" cy="200" r="24" fill="#000"/>
+</svg>

@@ -1,0 +1,13 @@
+# Private source material: kept locally, never published.
+# (The site uses cropped, compressed copies in site/public/media.)
+/*.png
+/*.jpg
+/*.jpeg
+/*.docx
+
+# Throwaway renders from logo exploration
+brand/renders/
+
+node_modules
+dist
+.DS_Store

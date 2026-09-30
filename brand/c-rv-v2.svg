@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256">
+  <!-- R bowl radius 44, stem 32; the R leg becomes the V's left arm, right arm mirrors its slope -->
+  <path fill="#000" fill-rule="evenodd" d="M28 48 H96 A44 44 0 0 1 96 136 H60 V208 H28 Z M60 80 H96 A12 12 0 0 1 96 104 H60 Z"/>
+  <path fill="#000" d="M76 136 H112 L156 168 L204 48 H238 L172 208 H140 Z"/>
+</svg>

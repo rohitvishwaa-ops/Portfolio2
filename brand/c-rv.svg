@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256">
+  <!-- R: stem 32 wide, bowl radius 44 with counter; leg continues into the V -->
+  <path fill="#000" fill-rule="evenodd" d="M36 48 H104 A44 44 0 0 1 104 136 H68 V208 H36 Z M68 80 H104 A12 12 0 0 1 104 104 H68 Z"/>
+  <path fill="#000" d="M84 136 H118 L154 196 L196 48 H229 L170 208 H138 Z"/>
+</svg>

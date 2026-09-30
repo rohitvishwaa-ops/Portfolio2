@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256"><title>A Rohit Vishwa</title><rect width="256" height="256" rx="0" fill="#0b0b0d"/><g transform="translate(38.4 28.8) scale(0.7)" fill="#f2a65a">
+  <!-- beams flare from the light source: outer edges 60 deg, inner edges 75 deg -->
+  <path d="M124 196 L34 40 H92 L132 190 Z" fill="#f2a65a"/>
+  <path d="M132 196 L222 40 H164 L124 190 Z" fill="#f2a65a"/>
+  <circle cx="128" cy="204" r="28" fill="#f2a65a"/>
+</g></svg>

@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256">
+  <!-- lamp set off-centre (like the desk lamp in the site), breaking the divide-sign reading -->
+  <circle cx="170" cy="70" r="24" fill="#000"/>
+  <!-- island: flat top slab joined to a faceted, asymmetric underside -->
+  <path d="M28 118 H228 L220 142 L174 176 L140 232 L112 184 L60 160 Z" fill="#000"/>
+</svg>
