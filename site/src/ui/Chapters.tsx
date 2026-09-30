@@ -68,8 +68,9 @@ function Hero({ panelRef, started, onWork }: Shared & { onWork: () => void }) {
       >
         {profile.name}
       </TextScramble>
-      <p className="mt-6 max-w-[42ch] text-lg leading-relaxed text-mute">
-        Full-stack developer and CSE student at VIT Chennai. <span className="text-ink">{profile.tagline}</span>
+      <p className="mt-6 max-w-[48ch] text-lg leading-relaxed text-mute">
+        Full-stack developer and CSE student at VIT Chennai. Interned at the India Meteorological Department and shipped three
+        full-stack projects. <span className="text-ink">{profile.tagline}</span>
       </p>
       <div className="mt-9 flex flex-wrap items-center gap-3">
         <SignatureButton onClick={onWork} icon={ArrowDown}>
