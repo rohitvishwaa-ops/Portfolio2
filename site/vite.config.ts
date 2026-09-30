@@ -13,6 +13,9 @@ export default defineConfig({
   server: { headers: noStore },
   preview: { headers: noStore },
   build: {
+    // The lazy-loaded Three.js chunk is ~1 MB (~280 KB gzipped) by nature; it loads after the page text,
+    // so the default 500 KB warning is expected noise for this one chunk.
+    chunkSizeWarningLimit: 1100,
     rollupOptions: {
       output: {
         manualChunks(id) {
